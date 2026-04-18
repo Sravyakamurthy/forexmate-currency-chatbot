@@ -138,7 +138,7 @@ It uses gunicorn as the production server.
 
 ## Author
 
-Sai Eshwari
+Sravya Kamurthy
 BTech CSE (AI/ML)
 
 ---
