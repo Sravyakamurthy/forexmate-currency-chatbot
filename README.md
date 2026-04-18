@@ -61,7 +61,7 @@ User (Web / Telegram / Dialogflow)
 ## Setup (Local)
 
 ```bash
-git clone https://github.com/Sai-Eshwari/forexmate-currency-chatbot.git
+git clone https://github.com/Sravya-Kamurthy/forexmate-currency-chatbot.git
 cd forexmate-currency-chatbot
 
 pip install -r requirements.txt
